@@ -1,4 +1,4 @@
-# debrid-link_node
+# debridLinkNodeJS
 
 
 a tool to manipulate your  https://debrid-link.com/ account using their API
